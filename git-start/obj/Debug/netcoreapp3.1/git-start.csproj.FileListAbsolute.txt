@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\git-start\git-start\bin\Debug\netcoreapp3.1\git-start.exe
+C:\Users\1\source\repos\git-start\git-start\bin\Debug\netcoreapp3.1\git-start.deps.json
+C:\Users\1\source\repos\git-start\git-start\bin\Debug\netcoreapp3.1\git-start.runtimeconfig.json
+C:\Users\1\source\repos\git-start\git-start\bin\Debug\netcoreapp3.1\git-start.runtimeconfig.dev.json
+C:\Users\1\source\repos\git-start\git-start\bin\Debug\netcoreapp3.1\git-start.dll
+C:\Users\1\source\repos\git-start\git-start\bin\Debug\netcoreapp3.1\git-start.pdb
+C:\Users\1\source\repos\git-start\git-start\obj\Debug\netcoreapp3.1\git-start.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\git-start\git-start\obj\Debug\netcoreapp3.1\git-start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\git-start\git-start\obj\Debug\netcoreapp3.1\git-start.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\git-start\git-start\obj\Debug\netcoreapp3.1\git-start.AssemblyInfo.cs
+C:\Users\1\source\repos\git-start\git-start\obj\Debug\netcoreapp3.1\git-start.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\git-start\git-start\obj\Debug\netcoreapp3.1\git-start.dll
+C:\Users\1\source\repos\git-start\git-start\obj\Debug\netcoreapp3.1\git-start.pdb
+C:\Users\1\source\repos\git-start\git-start\obj\Debug\netcoreapp3.1\git-start.genruntimeconfig.cache
